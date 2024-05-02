@@ -4,7 +4,7 @@
 
 ## Description
 
-Apliation that allows user to write, save, and delete notes
+Application that allows user to write, save, and delete notes
 
 ## Table of Contents 
 
